@@ -1,6 +1,6 @@
 # horiseon
 
-This is a static webpage with some basic to intermediate css that was refactored from a different code. 
+This is a static webpage with some basic to intermediate css that was refactored from https://github.com/coding-boot-camp/urban-octo-telegram. 
 
 Horiseon is a social solution service that helps you optimize your search engine, manage your online reputation, and market your social media presence.
 
